@@ -1,0 +1,17 @@
+.box1 {
+    width: 300px;
+    background:#eeeeee;
+}
+.yazi13 {
+font-family: 'Times New Roman', Times, serif;
+font-size: 13px;
+}
+.yazi16 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+table {
+    padding: 0%;
+    margin: 0%;
+    border-spacing: 0%;
+}
